@@ -1,5 +1,5 @@
 Link to ChatGPT chat: viewer -> https://chatgpt.com/share/6a3e97ca-b460-83e8-99ae-596ecc7c04dd
-                      owner  -> https://chatgpt.com/c/6a3df786-7a74-83ee-b880-0f8e4120b24f
+                      \nowner  -> https://chatgpt.com/c/6a3df786-7a74-83ee-b880-0f8e4120b24f
 # Phrase Caption Pilot v4.9 — Style Template Layer
 
 This version adds the feature you asked for:
