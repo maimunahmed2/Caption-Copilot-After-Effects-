@@ -1,3 +1,5 @@
+Link to ChatGPT chat: https://chatgpt.com/share/6a3e97ca-b460-83e8-99ae-596ecc7c04dd
+
 # Phrase Caption Pilot v4.9 — Style Template Layer
 
 This version adds the feature you asked for:
