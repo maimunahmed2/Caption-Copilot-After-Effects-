@@ -1,0 +1,35 @@
+{
+  "source": "sample",
+  "words": [
+    {
+      "word": "Be",
+      "start": 0.1,
+      "end": 0.28
+    },
+    {
+      "word": "careful",
+      "start": 0.29,
+      "end": 0.72
+    },
+    {
+      "word": "with",
+      "start": 0.8,
+      "end": 0.96
+    },
+    {
+      "word": "what",
+      "start": 0.97,
+      "end": 1.14
+    },
+    {
+      "word": "you",
+      "start": 1.15,
+      "end": 1.28
+    },
+    {
+      "word": "say...",
+      "start": 1.29,
+      "end": 1.78
+    }
+  ]
+}
